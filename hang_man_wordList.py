@@ -43,4 +43,3 @@ animalList = ['albatross',
 'woodpecker',
 'wren'
 ]
-print(animalList)
