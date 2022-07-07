@@ -40,7 +40,7 @@ while not end_of_game:
         print(stages[life])
   
     if life == 0:
-        end_of_game = Trupe
+        end_of_game = True
         print('you lost\n')
 
     print(" ".join(displayList), "\n")
