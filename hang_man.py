@@ -47,6 +47,6 @@ while not end_of_game:
     #Check if the word is filled
     if "_" not in displayList:
         end_of_game = True   
-        print('You Win, Congratulation!\n')
+        print('You Win,Congratulation!\n')
 
 
